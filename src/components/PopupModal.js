@@ -19,8 +19,8 @@ function PopupModal() {
                             <div className="modal-body text-bold text-capitalize" style={{color:'#000000'}}>
                                 <i>
                                     <strong>
-                                       Dear Client we have moved our website to <a className='link1' href='https://www.237bet.cm/#/' target='blank'>237bet.cm.</a> we are sorry for the inconviniences this may cause.<br/><br/>
-                                        <span className='text-muted'>Cher client nous avons transferé notre site web a <a className='link1' href='https://www.237bet.cm/fr/#/' target='blank'>237bet.cm.</a> nous nous excusons pour tout désagrément que cela pourrais causer.</span> 
+                                       Dear Client we have temporarily moved our website to <a className='link1' href='https://www.237bet.cm/#/' target='blank'>237bet.cm.</a> we are sorry for the inconviniences this may cause.<br/><br/>
+                                        <span className='text-muted'>Cher client nous avons transferé temporairement notre site web a <a className='link1' href='https://www.237bet.cm/fr/#/' target='blank'>237bet.cm.</a> nous nous excusons pour tout désagrément que cela pourrais causer.</span> 
                                    </strong>
                                    
                                  </i>
