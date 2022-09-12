@@ -1,0 +1,45 @@
+
+html, *, body {
+  scroll-behavior: smooth !important;
+  -webkit-overflow-scrolling: touch !important;
+}
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #087b5e; 
+  color: var(--clr-grey-1);
+  overflow-x: hidden;
+  font-size: 0.875rem;
+  box-sizing: border-box; 
+}
+.btn{
+  background-color: #08664f !important;
+  color: #f0f0f0;
+}
+.link1{
+  color: red;
+}
+.modal-title{
+  color: #08664f;
+}
+/* popup modal */
+.modal-footer{
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center;
+}
+#exampleModalCenter{
+  background-color: rgba(0,0,0, 0.7) !important;
+ 
+}
+/*end popup modal */
+a {
+  text-decoration: none;
+}
+
+
